@@ -34,6 +34,7 @@ Restricting the corpus to climate-only studies would have excluded exactly the w
 Entries come from a systematic search executed on **April 2026** across five bibliographic APIs — **arXiv, DBLP, OpenAlex, Scopus, and Semantic Scholar**. We ran 13 structured Boolean queries.
 
 The raw **26,704 records** were deduplicated, keyword pre-filtered, and screened by title/abstract, then full-text reviewed and scored against a 10-criterion quality rubric. **79 studies** passed the threshold (QA ≥ 6.0); a further **12** were added via citation snowballing and expert knowledge, for a **91-paper corpus**. Full counts, criteria, and the search protocol are in [Methodology](#methodology).
+
 - The full machine-readable corpus lives in `[assets/corpus.json](assets/corpus.json)`; BibTeX for every entry is in `[assets/references.bib](assets/references.bib)`.
 
 ## Contents
@@ -44,15 +45,15 @@ The raw **26,704 records** were deduplicated, keyword pre-filtered, and screened
   - [Contents](#contents)
   - [Interventions by Paradigm](#interventions-by-paradigm)
     - [Retrieval-Augmented Generation (RAG) (17)](#retrieval-augmented-generation-rag-17)
-    - [Fine-Tuning \& Domain Adaptation (13)](#fine-tuning--domain-adaptation-13)
+    - [Fine-Tuning  Domain Adaptation (13)](#fine-tuning--domain-adaptation-13)
     - [Machine Unlearning (3)](#machine-unlearning-3)
     - [Fact-Checking Pipelines (10)](#fact-checking-pipelines-10)
-    - [Hallucination \& Misinformation Detection (12)](#hallucination--misinformation-detection-12)
-    - [Knowledge Editing \& Mechanistic Interpretability (2)](#knowledge-editing--mechanistic-interpretability-2)
-  - [Benchmarks, Surveys \& Evaluation Studies](#benchmarks-surveys--evaluation-studies)
-    - [Benchmarks \& Datasets (11)](#benchmarks--datasets-11)
-    - [Surveys \& Reviews (8)](#surveys--reviews-8)
-    - [Evaluation \& Analysis Studies (15)](#evaluation--analysis-studies-15)
+    - [Hallucination  Misinformation Detection (12)](#hallucination--misinformation-detection-12)
+    - [Knowledge Editing  Mechanistic Interpretability (2)](#knowledge-editing--mechanistic-interpretability-2)
+  - [Benchmarks, Surveys  Evaluation Studies](#benchmarks-surveys--evaluation-studies)
+    - [Benchmarks  Datasets (11)](#benchmarks--datasets-11)
+    - [Surveys  Reviews (8)](#surveys--reviews-8)
+    - [Evaluation  Analysis Studies (15)](#evaluation--analysis-studies-15)
   - [Methodology](#methodology)
     - [Generative AI usage](#generative-ai-usage)
   - [Contributing](#contributing)
