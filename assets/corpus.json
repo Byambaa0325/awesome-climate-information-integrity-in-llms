@@ -1,0 +1,1379 @@
+{
+  "name": "Awesome Climate Information Integrity in LLMs",
+  "description": "Machine-readable corpus underlying the curated list (title, authors, venue, links, paradigm, and a one-line TL;DR per paper).",
+  "count": 91,
+  "papers": [
+    {
+      "id": "0",
+      "title": "Automated fact-checking of climate claims with large language models",
+      "authors": [
+        "Leippold, Markus",
+        "Vaghefi, Saeid Ashraf",
+        "Stammbach, Dominik",
+        "Muccione, Veruska",
+        "Bingler, Julia",
+        "Ni, Jingwei",
+        "Senni, Chiara Colesanti",
+        "Wekhof, Tobias",
+        "Schimanski, Tobias",
+        "Gostlow, Glen",
+        "Yu, Tingyu",
+        "Luterbacher, Juerg",
+        "Huggel, Christian"
+      ],
+      "year": "2025",
+      "venue": "npj Climate Action",
+      "url": "http://dx.doi.org/10.1038/s44168-025-00215-8",
+      "doi": "10.1038/s44168-025-00215-8",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "Retrieval pipeline for automated climate fact-checking"
+    },
+    {
+      "id": "127",
+      "title": "Contradiction to Consensus: Dual Perspective, Multi Source Retrieval Based Claim Verification with Source Level Disagreement using LLM",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2602.18693",
+      "doi": "10.48550/ARXIV.2602.18693",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "Dual-perspective multi-source retrieval for claim verification"
+    },
+    {
+      "id": "117",
+      "title": "Web Retrieval Agents for Evidence-Based Misinformation Detection",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2409.00009",
+      "doi": null,
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "Web-retrieval agents for evidence-based misinformation detection"
+    },
+    {
+      "id": "84",
+      "title": "A Large Language Model-based Framework to Retrieve Life Cycle Inventory and Environmental Impact Data from Scientific Literature",
+      "authors": [
+        "Kumar, Avan",
+        "Nazemi, Farshid",
+        "Kodamana, Hariprasad",
+        "Ramteke, Manojkumar",
+        "Bakshi, Bhavik R."
+      ],
+      "year": "2025",
+      "venue": "Environmental Science & Technology",
+      "url": "http://dx.doi.org/10.1021/acs.est.5c05955",
+      "doi": "10.1021/acs.est.5c05955",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "LLM-based framework for life cycle inventory retrieval"
+    },
+    {
+      "id": "129",
+      "title": "Beyond Retrieval: Improving Evidence Quality for LLM-based Multimodal Fact-Checking",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2505.03135",
+      "doi": "10.48550/ARXIV.2505.03135",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "Beyond retrieval: evidence quality for multimodal fact-checking"
+    },
+    {
+      "id": "66",
+      "title": "ChatClimate: Grounding conversational AI in climate science",
+      "authors": [
+        "Vaghefi, Saeid Ashraf",
+        "Stammbach, Dominik",
+        "Muccione, Veruska",
+        "Bingler, Julia",
+        "Ni, Jingwei",
+        "Kraus, Mathias",
+        "Allen, Simon",
+        "Colesanti-Senni, Chiara",
+        "Wekhof, Tobias",
+        "Schimanski, Tobias",
+        "Gostlow, Glen",
+        "Yu, Tingyu",
+        "Wang, Qian",
+        "Webersinke, Nicolas",
+        "Huggel, Christian",
+        "Leippold, Markus"
+      ],
+      "year": "2023",
+      "venue": "Communications Earth & Environment",
+      "url": "http://dx.doi.org/10.1038/s43247-023-01084-x",
+      "doi": "10.1038/s43247-023-01084-x",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "ChatClimate: RAG-grounded climate conversational AI"
+    },
+    {
+      "id": "54",
+      "title": "CtrlRAG: Black-box Document Poisoning Attacks for Retrieval-Augmented Generation of Large Language Models",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2503.06950",
+      "doi": "10.48550/ARXIV.2503.06950",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "CtrlRAG: adversarial document poisoning — robustness baseline"
+    },
+    {
+      "id": "15",
+      "title": "EmeraldMind: A Knowledge Graph-Augmented Framework for Greenwashing Detection",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2512.11506",
+      "doi": null,
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "EmeraldMind: KG-augmented RAG for greenwashing detection"
+    },
+    {
+      "id": "85",
+      "title": "Enabling GPTs for Expert-Level Environmental Engineering Question Answering",
+      "authors": [
+        "Zhu, Jun-Jie",
+        "Yang, Meiqi",
+        "Jiang, Jinyue",
+        "Bai, Yiming",
+        "Chen, Danqi",
+        "Ren, Zhiyong Jason"
+      ],
+      "year": "2024",
+      "venue": "Environmental Science & Technology Letters",
+      "url": "http://dx.doi.org/10.1021/acs.estlett.4c00665",
+      "doi": "10.1021/acs.estlett.4c00665",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "Enabling GPTs for expert-level environmental engineering QA"
+    },
+    {
+      "id": "26",
+      "title": "Listen to the Context: Towards Faithful Large Language Models for Retrieval Augmented Generation on Climate Questions",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2505.15633",
+      "doi": null,
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "Faithful LLMs for RAG: context-following intervention"
+    },
+    {
+      "id": "30",
+      "title": "SimulRAG: Simulator-based RAG for Grounding LLMs in Long-form Scientific QA",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2509.25459",
+      "doi": null,
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "SimulRAG: simulator-grounded RAG for scientific QA"
+    },
+    {
+      "id": "128",
+      "title": "Towards More Robust Retrieval-Augmented Generation: Evaluating RAG Under Adversarial Poisoning Attacks",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2412.16708",
+      "doi": "10.48550/ARXIV.2412.16708",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "Robustness evaluation of RAG under adversarial conditions"
+    },
+    {
+      "id": "20",
+      "title": "CAIRNS: Balancing Readability and Scientific Accuracy in Climate Adaptation Question Answering",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2512.02251",
+      "doi": null,
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "CAIRNS: balancing readability and scientific accuracy"
+    },
+    {
+      "id": "37",
+      "title": "CF-RAG: A Dataset and Method for Carbon Footprint QA Using Retrieval-Augmented Generation",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2508.03489",
+      "doi": "10.48550/ARXIV.2508.03489",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "CF-RAG: RAG for carbon footprint QA — domain-specific"
+    },
+    {
+      "id": "74",
+      "title": "Language models for the analysis of and interaction with climate change documents",
+      "authors": [
+        "Volkanovska, Elena"
+      ],
+      "year": "2025",
+      "venue": "Environmental Data Science",
+      "url": "http://dx.doi.org/10.1017/eds.2025.10024",
+      "doi": "10.1017/eds.2025.10024",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "LMs for analysis of and interaction with climate documents"
+    },
+    {
+      "id": "32",
+      "title": "My Climate Advisor: An Application of NLP in Climate Adaptation for Agriculture",
+      "authors": [
+        "Nguyen, Vincent",
+        "Karimi, Sarvnaz",
+        "Hallgren, Willow",
+        "Harkin, Ashley",
+        "Prakash, Mahesh"
+      ],
+      "year": "2024",
+      "venue": "Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)",
+      "url": "http://dx.doi.org/10.18653/v1/2024.climatenlp-1.3",
+      "doi": "10.18653/v1/2024.climatenlp-1.3",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "My Climate Advisor: NLP application for climate adaptation"
+    },
+    {
+      "id": "48",
+      "title": "Verif.ai: Towards an Open-Source Scientific Generative Question-Answering System with Referenced and Verifiable Answers",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2402.18589",
+      "doi": "10.48550/ARXIV.2402.18589",
+      "section": "RAG",
+      "paradigm": "Retrieval-Augmented Generation",
+      "tldr": "Verif.ai: open-source scientific generative QA system"
+    },
+    {
+      "id": "22",
+      "title": "Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2411.00412",
+      "doi": null,
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "Adapting While Learning: domain grounding via continual fine-tuning"
+    },
+    {
+      "id": "11",
+      "title": "Learn and Unlearn: Addressing Misinformation in Multilingual LLMs",
+      "authors": [
+        "Lu, TaiMing",
+        "Koehn, Philipp"
+      ],
+      "year": "2025",
+      "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+      "url": "http://dx.doi.org/10.18653/v1/2025.emnlp-main.516",
+      "doi": "10.18653/v1/2025.emnlp-main.516",
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "Learn & Unlearn: SFT + machine unlearning for multilingual LLMs"
+    },
+    {
+      "id": "52",
+      "title": "PretrainRL: Alleviating Factuality Hallucination of Large Language Models at the Beginning",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2602.01875",
+      "doi": null,
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "PretrainRL: RL-based pretraining to reduce factuality hallucination"
+    },
+    {
+      "id": "21",
+      "title": "ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate Change",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2401.09646",
+      "doi": null,
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "ClimateGPT: fine-tuned LLM synthesising climate research"
+    },
+    {
+      "id": "81",
+      "title": "Fine-tuning large language models for interdisciplinary environmental challenges",
+      "authors": [
+        "Zhang, Yuanxin",
+        "Lin, Sijie",
+        "Xiong, Yaxin",
+        "Li, Nan",
+        "Zhong, Lijin",
+        "Ding, Longzhen",
+        "Hu, Qing"
+      ],
+      "year": "2025",
+      "venue": "Environmental Science and Ecotechnology",
+      "url": "http://dx.doi.org/10.1016/j.ese.2025.100608",
+      "doi": "10.1016/j.ese.2025.100608",
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "Fine-tuning LLMs for interdisciplinary environmental challenges"
+    },
+    {
+      "id": "60",
+      "title": "Inducing Epistemological Humility in Large Language Models: A Targeted SFT Approach to Reducing Hallucination",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2603.17504",
+      "doi": "10.48550/ARXIV.2603.17504",
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "Targeted SFT to induce epistemic humility in LLMs"
+    },
+    {
+      "id": "76",
+      "title": "Leveraging LLMs for Environmental Complexity: Structured Fine-Tuning Data Sets and Deployment Strategies",
+      "authors": [
+        "Chen, Chuke",
+        "Li, Nan",
+        "Qi, Jianchuan",
+        "Chang, Huimin",
+        "Shi, Wenjie",
+        "Xie, Jinliang",
+        "Yuan, Jiayi",
+        "Yang, Hang",
+        "Guo, Jing",
+        "Xu, Changqing",
+        "Xu, Ming"
+      ],
+      "year": "2026",
+      "venue": "Environmental Science & Technology",
+      "url": "http://dx.doi.org/10.1021/acs.est.5c09526",
+      "doi": "10.1021/acs.est.5c09526",
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "Structured fine-tuning datasets for environmental domain LLMs"
+    },
+    {
+      "id": "38",
+      "title": "ClimateChat: Designing Data and Methods for Instruction Tuning LLMs to Answer Climate Change Queries",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2506.13796",
+      "doi": "10.48550/ARXIV.2506.13796",
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "ClimateChat: instruction-tuning dataset for climate QA"
+    },
+    {
+      "id": "41",
+      "title": "Fine-tuning Language Models for Factuality",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2311.08401",
+      "doi": null,
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "Fine-tuning language models for factuality — general domain"
+    },
+    {
+      "id": "59",
+      "title": "Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2505.17870",
+      "doi": "10.48550/ARXIV.2505.17870",
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "Model immunisation against misinformation (vaccine analogy)"
+    },
+    {
+      "id": "71",
+      "title": "Arabic Mini-ClimateGPT: A Climate Change and Sustainability Tailored Arabic LLM",
+      "authors": [
+        "Mullappilly, Sahal",
+        "Shaker, Abdelrahman",
+        "Thawakar, Omkar",
+        "Cholakkal, Hisham",
+        "Anwer, Rao",
+        "Khan, Salman",
+        "Khan, Fahad"
+      ],
+      "year": "2023",
+      "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023",
+      "url": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.941",
+      "doi": "10.18653/v1/2023.findings-emnlp.941",
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "Arabic Mini-ClimateGPT: fine-tuned Arabic climate LLM"
+    },
+    {
+      "id": "135",
+      "title": "ClimateBERT-NetZero: Detecting and Assessing Net Zero and Reduction Targets",
+      "authors": [
+        "Schimanski, Tobias",
+        "Bingler, Julia",
+        "Kraus, Mathias",
+        "Hyslop, Camilla",
+        "Leippold, Markus"
+      ],
+      "year": "2023",
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+      "url": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.975",
+      "doi": "10.18653/v1/2023.emnlp-main.975",
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "Fine-tunes ClimateBERT for policy-commitment claims absent from main corpus"
+    },
+    {
+      "id": "134",
+      "title": "ClimateBERT: A Pretrained Language Model for Climate-Related Text",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2110.12010",
+      "doi": "10.48550/ARXIV.2110.12010",
+      "section": "FINETUNE",
+      "paradigm": "Fine-Tuning & Domain Adaptation",
+      "tldr": "Domain-specific BERT predecessor to ClimateGPT; grounds domain-adaptation axis"
+    },
+    {
+      "id": "109",
+      "title": "Unlearning Climate Misinformation in Large Language Models",
+      "authors": [
+        "Fore, Michael",
+        "Singh, Simranjit",
+        "Lee, Chaehong",
+        "Pandey, Amritanshu",
+        "Anastasopoulos, Antonios",
+        "Stamoulis, Dimitrios"
+      ],
+      "year": "2024",
+      "venue": "Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)",
+      "url": "http://dx.doi.org/10.18653/v1/2024.climatenlp-1.14",
+      "doi": "10.18653/v1/2024.climatenlp-1.14",
+      "section": "UNLEARN",
+      "paradigm": "Machine Unlearning",
+      "tldr": "Machine unlearning of climate misinformation from LLM weights"
+    },
+    {
+      "id": "45",
+      "title": "Layer of Truth: Probing Belief Shifts under Continual Pre-Training Poisoning",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2510.26829",
+      "doi": null,
+      "section": "UNLEARN",
+      "paradigm": "Machine Unlearning",
+      "tldr": "Probing belief shift resistance under continual pre-training poisoning"
+    },
+    {
+      "id": "137",
+      "title": "Elastic Robust Unlearning of Specific Knowledge in Large Language Models",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://openreview.net/forum?id=VrXjAfdwrN",
+      "doi": null,
+      "section": "UNLEARN",
+      "paradigm": "Machine Unlearning",
+      "tldr": "ILU framework: IRM-based unlearning robustness against relearning"
+    },
+    {
+      "id": "5",
+      "title": "Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models",
+      "authors": [
+        "Han, Chen",
+        "Zheng, Wenzhen",
+        "Tang, Xijin"
+      ],
+      "year": "2025",
+      "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+      "url": "http://dx.doi.org/10.18653/v1/2025.emnlp-main.764",
+      "doi": "10.18653/v1/2025.emnlp-main.764",
+      "section": "FACTCHECK",
+      "paradigm": "Fact-Checking Pipelines",
+      "tldr": "Debate-to-Detect: multi-agent debate as fact-checking pipeline"
+    },
+    {
+      "id": "107",
+      "title": "Towards Reliable Misinformation Mitigation: Generalization, Uncertainty, and GPT-4",
+      "authors": [
+        "Pelrine, Kellin",
+        "Imouza, Anne",
+        "Thibault, Camille",
+        "Reksoprodjo, Meilina",
+        "Gupta, Caleb",
+        "Christoph, Joel",
+        "Godbout, Jean-François",
+        "Rabbany, Reihaneh"
+      ],
+      "year": "2023",
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+      "url": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.395",
+      "doi": "10.18653/v1/2023.emnlp-main.395",
+      "section": "FACTCHECK",
+      "paradigm": "Fact-Checking Pipelines",
+      "tldr": "Reliable misinformation mitigation: generalisation + uncertainty"
+    },
+    {
+      "id": "62",
+      "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2603.00267",
+      "doi": "10.48550/ARXIV.2603.00267",
+      "section": "FACTCHECK",
+      "paradigm": "Fact-Checking Pipelines",
+      "tldr": "Multi-sourced, multi-agent evidence retrieval for fact-checking"
+    },
+    {
+      "id": "1",
+      "title": "The ClimateCheck Shared Task: Scientific Fact-Checking of Social Media Claims about Climate Change",
+      "authors": [
+        "Abu Ahmad, Raia",
+        "Usmanova, Aida",
+        "Rehm, Georg"
+      ],
+      "year": "2025",
+      "venue": "Proceedings of the Fifth Workshop on Scholarly Document Processing (SDP 2025)",
+      "url": "http://dx.doi.org/10.18653/v1/2025.sdp-1.24",
+      "doi": "10.18653/v1/2025.sdp-1.24",
+      "section": "FACTCHECK",
+      "paradigm": "Fact-Checking Pipelines",
+      "tldr": "ClimateCheck shared task: climate claim verification systems"
+    },
+    {
+      "id": "47",
+      "title": "Understanding Inequality of LLM Fact-Checking over Geographic Regions with Agent and Retrieval models",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2503.22877",
+      "doi": null,
+      "section": "FACTCHECK",
+      "paradigm": "Fact-Checking Pipelines",
+      "tldr": "Geographic inequality in LLM fact-checking via agent frameworks"
+    },
+    {
+      "id": "118",
+      "title": "Interpretable Unified Language Checking",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2304.03728",
+      "doi": null,
+      "section": "FACTCHECK",
+      "paradigm": "Fact-Checking Pipelines",
+      "tldr": "Interpretable unified language checking pipeline"
+    },
+    {
+      "id": "124",
+      "title": "AI-Assisted Scientific Assessment: A Case Study on Climate Change",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2602.09723",
+      "doi": "10.48550/ARXIV.2602.09723",
+      "section": "FACTCHECK",
+      "paradigm": "Fact-Checking Pipelines",
+      "tldr": "AI-assisted scientific assessment of climate change claims"
+    },
+    {
+      "id": "43",
+      "title": "Atomic Reasoning for Scientific Table Claim Verification",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2506.06972",
+      "doi": "10.48550/ARXIV.2506.06972",
+      "section": "FACTCHECK",
+      "paradigm": "Fact-Checking Pipelines",
+      "tldr": "Atomic reasoning for scientific table claim verification"
+    },
+    {
+      "id": "16",
+      "title": "Computational Fact-Checking of Online Discourse: Scoring Scientific Accuracy in Climate Change Related News Articles",
+      "authors": [
+        "Wittenborg, Tim",
+        "Tremel, Constantin Sebastian",
+        "Karras, Oliver",
+        "Auer, Sören"
+      ],
+      "year": "2025",
+      "venue": "2025 IEEE International Conference on Knowledge Graph (ICKG)",
+      "url": "http://dx.doi.org/10.1109/ICKG66886.2025.00055",
+      "doi": "10.1109/ickg66886.2025.00055",
+      "section": "FACTCHECK",
+      "paradigm": "Fact-Checking Pipelines",
+      "tldr": "Scoring scientific accuracy in online discourse"
+    },
+    {
+      "id": "133",
+      "title": "SciClops: Detecting and Contextualizing Scientific Claims for Assisting Manual Fact-Checking",
+      "authors": [
+        "Smeros, Panayiotis",
+        "Castillo, Carlos",
+        "Aberer, Karl"
+      ],
+      "year": "2021",
+      "venue": "Proceedings of the 30th ACM International Conference on Information & Knowledge Management",
+      "url": "http://dx.doi.org/10.1145/3459637.3482475",
+      "doi": "10.1145/3459637.3482475",
+      "section": "FACTCHECK",
+      "paradigm": "Fact-Checking Pipelines",
+      "tldr": "Pre-LLM baseline for scientific claim detection; anchors evaluation landscape"
+    },
+    {
+      "id": "119",
+      "title": "Evaluating open-source Large Language Models for automated fact-checking",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2503.05565",
+      "doi": null,
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "Evaluation of open-source LLMs for automated fact-checking"
+    },
+    {
+      "id": "13",
+      "title": "Enhancing LLMs for Governance with Human Oversight: Evaluating and Aligning LLMs on Expert Classification of Climate Misinformation for Detecting False or Misleading Claims about Climate Change",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2501.13802",
+      "doi": null,
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "Enhancing LLMs for governance with human oversight and alignment"
+    },
+    {
+      "id": "115",
+      "title": "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models",
+      "authors": [
+        "Manakul, Potsawee",
+        "Liusie, Adian",
+        "Gales, Mark"
+      ],
+      "year": "2023",
+      "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+      "url": "http://dx.doi.org/10.18653/v1/2023.emnlp-main.557",
+      "doi": "10.18653/v1/2023.emnlp-main.557",
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "SelfCheckGPT: zero-resource black-box hallucination detection"
+    },
+    {
+      "id": "44",
+      "title": "ARREST: Adversarial Resilient Regulation Enhancing Safety and Truth in Large Language Models",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2601.04394",
+      "doi": null,
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "ARREST: adversarial resilient safety and truth enforcement"
+    },
+    {
+      "id": "114",
+      "title": "Detecting hallucinations in large language models using semantic entropy",
+      "authors": [
+        "Farquhar, Sebastian",
+        "Kossen, Jannik",
+        "Kuhn, Lorenz",
+        "Gal, Yarin"
+      ],
+      "year": "2024",
+      "venue": "Nature",
+      "url": "http://dx.doi.org/10.1038/s41586-024-07421-0",
+      "doi": "10.1038/s41586-024-07421-0",
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "Semantic entropy for hallucination detection in LLMs"
+    },
+    {
+      "id": "49",
+      "title": "Sycophancy under Pressure: Evaluating and Mitigating Sycophantic Bias via Adversarial Dialogues in Scientific QA",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2508.13743",
+      "doi": null,
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "Sycophancy under pressure: evaluation and mitigation"
+    },
+    {
+      "id": "51",
+      "title": "An Ensemble Approach to Climate Misinformation Detection",
+      "authors": [
+        "Lei, Lei",
+        "Lalonde, Marc",
+        "Ghodrati, Hamed",
+        "Handan, Azur"
+      ],
+      "year": "2026",
+      "venue": "Proceedings of the 21st International Conference on Computer Vision Theory and Applications",
+      "url": "http://dx.doi.org/10.5220/0014633100004084",
+      "doi": "10.5220/0014633100004084",
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "Ensemble approach to climate misinformation detection"
+    },
+    {
+      "id": "12",
+      "title": "Multimodal Climate Disinformation Detection: Integrating Vision-Language Models with External Knowledge Sources",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2601.16108",
+      "doi": null,
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "Multimodal climate disinformation detection (vision-language)"
+    },
+    {
+      "id": "101",
+      "title": "Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2509.08024",
+      "doi": "10.48550/ARXIV.2509.08024",
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "Two-stage context learning for multimodal stance detection"
+    },
+    {
+      "id": "65",
+      "title": "Using Large Language Models to Detect and Debunk Climate Change Misinformation",
+      "authors": [
+        "Shahbazi, Zeinab",
+        "Behnamian, Sara"
+      ],
+      "year": "2026",
+      "venue": "Big Data and Cognitive Computing",
+      "url": "http://dx.doi.org/10.3390/bdcc10010034",
+      "doi": "10.3390/bdcc10010034",
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "LLMs to detect and debunk climate misinformation"
+    },
+    {
+      "id": "98",
+      "title": "Fake news detection: comparative evaluation of BERT-like models and large language models with generative AI-annotated data",
+      "authors": [
+        "Raza, Shaina",
+        "Paulen-Patterson, Drai",
+        "Ding, Chen"
+      ],
+      "year": "2025",
+      "venue": "Knowledge and Information Systems",
+      "url": "http://dx.doi.org/10.1007/s10115-024-02321-1",
+      "doi": "10.1007/s10115-024-02321-1",
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "Comparative evaluation of BERT-like and LLMs for fake news"
+    },
+    {
+      "id": "131",
+      "title": "Can LLM-Generated Misinformation Be Detected?",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2309.13788",
+      "doi": "10.48550/ARXIV.2309.13788",
+      "section": "DETECTION",
+      "paradigm": "Hallucination & Misinformation Detection",
+      "tldr": "Detectability of LLM-generated vs human-written misinformation; bridges DETECTION gap"
+    },
+    {
+      "id": "130",
+      "title": "Can Knowledge Editing Really Correct Hallucinations?",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2410.16251",
+      "doi": "10.48550/ARXIV.2410.16251",
+      "section": "INTERP",
+      "paradigm": "Knowledge Editing & Mechanistic Interpretability",
+      "tldr": "Mechanistic interpretability gap — HalluEditBench evaluates ROME/MEMIT knowledge editing"
+    },
+    {
+      "id": "138",
+      "title": "Reviving Your MNEME: Predicting The Side Effects of LLM Unlearning and Fine-Tuning via Sparse Model Diffing",
+      "authors": [
+        "Kassem, Aly M.",
+        "Shi, Zhuan",
+        "Rostamzadeh, Negar",
+        "Farnadi, Golnoosh"
+      ],
+      "year": "2025",
+      "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+      "url": "http://dx.doi.org/10.18653/v1/2025.emnlp-main.1641",
+      "doi": "10.18653/v1/2025.emnlp-main.1641",
+      "section": "INTERP",
+      "paradigm": "Knowledge Editing & Mechanistic Interpretability",
+      "tldr": "Sparse probing of unlearning side effects on unrelated knowledge"
+    },
+    {
+      "id": "25",
+      "title": "CLINB: A Climate Intelligence Benchmark for Foundational Models",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2511.11597",
+      "doi": null,
+      "section": "BENCH",
+      "paradigm": "Benchmark / Dataset",
+      "tldr": "Pure benchmark — CLINB (no proposed system)"
+    },
+    {
+      "id": "116",
+      "title": "ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation",
+      "authors": [
+        "Sun, Siqi",
+        "Wu, Ben Peng",
+        "Jin, Mali",
+        "Bai, Peizhen",
+        "Zhang, Hanpei",
+        "Song, Xingyi"
+      ],
+      "year": "2026",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "url": "http://dx.doi.org/10.1609/aaai.v40i46.41281",
+      "doi": "10.1609/aaai.v40i46.41281",
+      "section": "BENCH",
+      "paradigm": "Benchmark / Dataset",
+      "tldr": "ESG-Bench: hallucination mitigation in long ESG reports"
+    },
+    {
+      "id": "10",
+      "title": "Holistic Evaluation of Language Models",
+      "authors": [
+        "Bommasani, Rishi",
+        "Liang, Percy",
+        "Lee, Tony"
+      ],
+      "year": "2023",
+      "venue": "Annals of the New York Academy of Sciences",
+      "url": "http://dx.doi.org/10.1111/nyas.15007",
+      "doi": "10.1111/nyas.15007",
+      "section": "BENCH",
+      "paradigm": "Benchmark / Dataset",
+      "tldr": "Pure benchmark — HELM (evaluation framework)"
+    },
+    {
+      "id": "123",
+      "title": "LLM Benchmark-User Need Misalignment for Climate Change",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2603.26106",
+      "doi": "10.48550/ARXIV.2603.26106",
+      "section": "BENCH",
+      "paradigm": "Benchmark / Dataset",
+      "tldr": "Pure benchmark — LLM benchmark/user-need misalignment"
+    },
+    {
+      "id": "35",
+      "title": "S2SServiceBench: A Multimodal Benchmark for Last-Mile S2S Climate Services",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2602.14017",
+      "doi": null,
+      "section": "BENCH",
+      "paradigm": "Benchmark / Dataset",
+      "tldr": "Pure benchmark — S2SServiceBench"
+    },
+    {
+      "id": "34",
+      "title": "EnviroExam: Benchmarking Environmental Science Knowledge of Large Language Models",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2405.11265",
+      "doi": null,
+      "section": "BENCH",
+      "paradigm": "Benchmark / Dataset",
+      "tldr": "Pure benchmark — EnviroExam"
+    },
+    {
+      "id": "110",
+      "title": "ClimateEval: A Comprehensive Benchmark for NLP Tasks Related to Climate Change",
+      "authors": [
+        "Kurfali, Murathan",
+        "Zahra, Shorouq",
+        "Nivre, Joakim",
+        "Messori, Gabriele"
+      ],
+      "year": "2025",
+      "venue": "Proceedings of the 2nd Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2025)",
+      "url": "http://dx.doi.org/10.18653/v1/2025.climatenlp-1.13",
+      "doi": "10.18653/v1/2025.climatenlp-1.13",
+      "section": "BENCH",
+      "paradigm": "Benchmark / Dataset",
+      "tldr": "Pure benchmark — ClimateEval"
+    },
+    {
+      "id": "111",
+      "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods",
+      "authors": [
+        "Lin, Stephanie",
+        "Hilton, Jacob",
+        "Evans, Owain"
+      ],
+      "year": "2022",
+      "venue": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "url": "http://dx.doi.org/10.18653/v1/2022.acl-long.229",
+      "doi": "10.18653/v1/2022.acl-long.229",
+      "section": "BENCH",
+      "paradigm": "Benchmark / Dataset",
+      "tldr": "Pure benchmark — TruthfulQA"
+    },
+    {
+      "id": "55",
+      "title": "CliME: Evaluating Multimodal Climate Discourse on Social Media and the Climate Alignment Quotient (CAQ)",
+      "authors": [
+        "Borah, Abhilekh",
+        "Abdullah, Hasnat Md",
+        "Wei, Kangda",
+        "Huang, Ruihong"
+      ],
+      "year": "2025",
+      "venue": "Proceedings of the Fourth Workshop on NLP for Positive Impact (NLP4PI)",
+      "url": "http://dx.doi.org/10.18653/v1/2025.nlp4pi-1.4",
+      "doi": "10.18653/v1/2025.nlp4pi-1.4",
+      "section": "BENCH",
+      "paradigm": "Benchmark / Dataset",
+      "tldr": "Pure benchmark/dataset — CliME"
+    },
+    {
+      "id": "40",
+      "title": "ESGenius: Benchmarking LLMs on Environmental, Social, and Governance (ESG) and Sustainability Knowledge",
+      "authors": [
+        "He, Chaoyue",
+        "Zhou, Xin",
+        "Wu, Yi",
+        "Yu, Xinjia",
+        "Zhang, Yan",
+        "Zhang, Lei",
+        "Wang, Di",
+        "Lyu, Shengfei",
+        "Xu, Hong",
+        "Xiaoqiao, Wang",
+        "Liu, Wei",
+        "Miao, Chunyan"
+      ],
+      "year": "2025",
+      "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+      "url": "http://dx.doi.org/10.18653/v1/2025.emnlp-main.739",
+      "doi": "10.18653/v1/2025.emnlp-main.739",
+      "section": "BENCH",
+      "paradigm": "Benchmark / Dataset",
+      "tldr": "Pure benchmark — ESGenius"
+    },
+    {
+      "id": "141",
+      "title": "Benchmarking LLM Faithfulness in RAG with Evolving Leaderboards",
+      "authors": [
+        "Tamber, Manveer Singh",
+        "Bao, Forrest Sheng",
+        "Xu, Chenyu",
+        "Luo, Ge",
+        "Kazi, Suleman",
+        "Bae, Minseok",
+        "Li, Miaoran",
+        "Mendelevitch, Ofer",
+        "Qu, Renyi",
+        "Lin, Jimmy"
+      ],
+      "year": "2025",
+      "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track",
+      "url": "http://dx.doi.org/10.18653/v1/2025.emnlp-industry.54",
+      "doi": "10.18653/v1/2025.emnlp-industry.54",
+      "section": "BENCH",
+      "paradigm": "Benchmark / Dataset",
+      "tldr": "FaithJudge + evolving RAG leaderboard; complements RAG faithfulness work"
+    },
+    {
+      "id": "78",
+      "title": "Applications of Generative Large Language Models in Environmental Science: A Systematic Review",
+      "authors": [
+        "Raeissi, Masoume M.",
+        "Knapen, Rob"
+      ],
+      "year": "2025",
+      "venue": "Advances in Environmental and Engineering Research",
+      "url": "http://dx.doi.org/10.21926/aeer.2503028",
+      "doi": "10.21926/aeer.2503028",
+      "section": "SURVEY",
+      "paradigm": "Survey / Review",
+      "tldr": "Survey — Applications of LLMs in environmental science"
+    },
+    {
+      "id": "106",
+      "title": "Generative AI and misinformation: a scoping review of the role of generative AI in the generation, detection, mitigation, and impact of misinformation",
+      "authors": [
+        "Park, Seyeon",
+        "Nan, Xiaoli"
+      ],
+      "year": "2025",
+      "venue": "AI & SOCIETY",
+      "url": "http://dx.doi.org/10.1007/s00146-025-02620-3",
+      "doi": "10.1007/s00146-025-02620-3",
+      "section": "SURVEY",
+      "paradigm": "Survey / Review",
+      "tldr": "Survey — Generative AI and misinformation (scoping review)"
+    },
+    {
+      "id": "120",
+      "title": "Generative Large Language Models in Automated Fact-Checking: A Survey",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2407.02351",
+      "doi": null,
+      "section": "SURVEY",
+      "paradigm": "Survey / Review",
+      "tldr": "Survey — LLMs in automated fact-checking"
+    },
+    {
+      "id": "89",
+      "title": "Hallucination to truth: a review of fact-checking and factuality evaluation in large language models",
+      "authors": [
+        "Rahman, Subhey Sadi",
+        "Islam, Md. Adnanul",
+        "Alam, Md. Mahbub",
+        "Zeba, Musarrat",
+        "Rahman, Md. Abdur",
+        "Chowa, Sadia Sultana",
+        "Raiaan, Mohaimenul Azam Khan",
+        "Azam, Sami"
+      ],
+      "year": "2026",
+      "venue": "Artificial Intelligence Review",
+      "url": "http://dx.doi.org/10.1007/s10462-025-11454-w",
+      "doi": "10.1007/s10462-025-11454-w",
+      "section": "SURVEY",
+      "paradigm": "Survey / Review",
+      "tldr": "Survey — Hallucination to truth (review)"
+    },
+    {
+      "id": "99",
+      "title": "A Comprehensive Survey of Hallucination in Large Language, Image, Video and Audio Foundation Models",
+      "authors": [
+        "Sahoo, Pranab",
+        "Meharia, Prabhash",
+        "Ghosh, Akash",
+        "Saha, Sriparna",
+        "Jain, Vinija",
+        "Chadha, Aman"
+      ],
+      "year": "2024",
+      "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+      "url": "http://dx.doi.org/10.18653/v1/2024.findings-emnlp.685",
+      "doi": "10.18653/v1/2024.findings-emnlp.685",
+      "section": "SURVEY",
+      "paradigm": "Survey / Review",
+      "tldr": "Survey — Comprehensive survey of hallucination"
+    },
+    {
+      "id": "132",
+      "title": "Combating Misinformation in the Age of LLMs: Opportunities and Challenges",
+      "authors": [
+        "Chen, Canyu",
+        "Shu, Kai"
+      ],
+      "year": "2024",
+      "venue": "AI Magazine",
+      "url": "http://dx.doi.org/10.1002/aaai.12188",
+      "doi": "10.1002/aaai.12188",
+      "section": "SURVEY",
+      "paradigm": "Survey / Review",
+      "tldr": "Survey of full mitigation landscape; scoping and vocabulary gap"
+    },
+    {
+      "id": "140",
+      "title": "Ethics, Generative AI and Science Communication",
+      "authors": [
+        "Feldman, Hannah R.",
+        "Medvecky, Fabien",
+        "Riedlinger, Michelle"
+      ],
+      "year": "2025",
+      "venue": "Public Understanding of Science",
+      "url": "http://dx.doi.org/10.1177/09636625251393621",
+      "doi": "10.1177/09636625251393621",
+      "section": "SURVEY",
+      "paradigm": "Survey / Review",
+      "tldr": "Ethics of genAI in science communication; deployment context"
+    },
+    {
+      "id": "139",
+      "title": "Information Integrity about Climate Science: A Systematic Review",
+      "authors": [
+        "Elbeyi, Ece",
+        "Bruhn Jensen, Klaus",
+        "Aronczyk, Melissa",
+        "Asuka, Junsen",
+        "Ceylan, Gizem",
+        "Cook, John",
+        "Erdelyi, Gabor",
+        "Ford, Heather",
+        "Milani, Carlos",
+        "Mustafaraj, Eni",
+        "Ogenga, Frederick",
+        "Yadin, Sharon",
+        "Howard, Philip",
+        "Valenzuela, Sebastián"
+      ],
+      "year": "2025",
+      "venue": null,
+      "url": "http://dx.doi.org/10.61452/BTZP3426",
+      "doi": "10.61452/btzp3426",
+      "section": "SURVEY",
+      "paradigm": "Survey / Review",
+      "tldr": "IPIE systematic review of climate information integrity landscape; abstract-only"
+    },
+    {
+      "id": "103",
+      "title": "Assessing Large Language Models on Climate Information",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2310.02932",
+      "doi": "10.48550/ARXIV.2310.02932",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — Assessing LLMs on climate information"
+    },
+    {
+      "id": "8",
+      "title": "Assessing the Effectiveness of GPT-4o in Climate Change Evidence Synthesis and Systematic Assessments: Preliminary Insights",
+      "authors": [
+        "Joe, Elphin",
+        "Koneru, Sai",
+        "Kirchhoff, Christine"
+      ],
+      "year": "2024",
+      "venue": "Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)",
+      "url": "http://dx.doi.org/10.18653/v1/2024.climatenlp-1.20",
+      "doi": "10.18653/v1/2024.climatenlp-1.20",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — Assessing GPT-4o for climate evidence synthesis"
+    },
+    {
+      "id": "14",
+      "title": "Climate Knowledge in Large Language Models",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2510.08043",
+      "doi": null,
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — Climate knowledge in LLMs"
+    },
+    {
+      "id": "112",
+      "title": "On the Risk of Misinformation Pollution with Large Language Models",
+      "authors": [
+        "Pan, Yikang",
+        "Pan, Liangming",
+        "Chen, Wenhu",
+        "Nakov, Preslav",
+        "Kan, Min-Yen",
+        "Wang, William"
+      ],
+      "year": "2023",
+      "venue": "Findings of the Association for Computational Linguistics: EMNLP 2023",
+      "url": "http://dx.doi.org/10.18653/v1/2023.findings-emnlp.97",
+      "doi": "10.18653/v1/2023.findings-emnlp.97",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — Risk of misinformation pollution"
+    },
+    {
+      "id": "33",
+      "title": "ClimateX: Do LLMs Accurately Assess Human Expert Confidence in Climate Statements?",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2311.17107",
+      "doi": null,
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — ClimateX: LLM confidence on climate statements"
+    },
+    {
+      "id": "108",
+      "title": "Disinformation Capabilities of Large Language Models",
+      "authors": [
+        "Vykopal, Ivan",
+        "Pikuliak, Matúš",
+        "Srba, Ivan",
+        "Moro, Robert",
+        "Macko, Dominik",
+        "Bielikova, Maria"
+      ],
+      "year": "2024",
+      "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "url": "http://dx.doi.org/10.18653/v1/2024.acl-long.793",
+      "doi": "10.18653/v1/2024.acl-long.793",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — Disinformation capabilities of LLMs"
+    },
+    {
+      "id": "77",
+      "title": "Generative AI tools can enhance climate literacy but must be checked for biases and inaccuracies",
+      "authors": [
+        "Atkins, Carmen",
+        "Girgente, Gina",
+        "Shirzaei, Manoochehr",
+        "Kim, Junghwan"
+      ],
+      "year": "2024",
+      "venue": "Communications Earth & Environment",
+      "url": "http://dx.doi.org/10.1038/s43247-024-01392-w",
+      "doi": "10.1038/s43247-024-01392-w",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — AI tools and climate literacy (commentary)"
+    },
+    {
+      "id": "39",
+      "title": "Group Reasoning Emission Estimation Networks",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2502.06874",
+      "doi": "10.48550/ARXIV.2502.06874",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Out-of-scope — Emission estimation, not misinformation"
+    },
+    {
+      "id": "95",
+      "title": "Evaluating ChatNetZero, an LLM-Chatbot to Demystify Climate Pledges",
+      "authors": [
+        "Hsu, Angel",
+        "Laney, Mason",
+        "Zhang, Ji",
+        "Manya, Diego",
+        "Farczadi, Linda"
+      ],
+      "year": "2024",
+      "venue": "Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)",
+      "url": "http://dx.doi.org/10.18653/v1/2024.climatenlp-1.6",
+      "doi": "10.18653/v1/2024.climatenlp-1.6",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluating ChatNetZero LLM chatbot on climate pledges"
+    },
+    {
+      "id": "53",
+      "title": "I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2505.13302",
+      "doi": "10.48550/ARXIV.2505.13302",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — Images increase misinformation sharing"
+    },
+    {
+      "id": "61",
+      "title": "Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2411.15993",
+      "doi": "10.48550/ARXIV.2411.15993",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — Factuality in long-form text generation"
+    },
+    {
+      "id": "122",
+      "title": "Scaling Truth: The Confidence Paradox in AI Fact-Checking",
+      "authors": [],
+      "year": null,
+      "venue": null,
+      "url": "https://arxiv.org/abs/2509.08803",
+      "doi": "10.48550/ARXIV.2509.08803",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — Confidence paradox in AI fact-checking"
+    },
+    {
+      "id": "67",
+      "title": "The AI Annotator: Large Language Models’ Potential in Scoring Sustainability Reports",
+      "authors": [
+        "Wu, Yue",
+        "Hu, Peng",
+        "Wang, Derek D."
+      ],
+      "year": "2025",
+      "venue": "Systems",
+      "url": "http://dx.doi.org/10.3390/systems13100899",
+      "doi": "10.3390/systems13100899",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — AI Annotator for sustainability reports"
+    },
+    {
+      "id": "90",
+      "title": "Understanding Knowledge Drift in LLMs Through Misinformation",
+      "authors": [
+        "Fastowski, Alina",
+        "Kasneci, Gjergji"
+      ],
+      "year": "2025",
+      "venue": "Discovering Drift Phenomena in Evolving Landscapes",
+      "url": "http://dx.doi.org/10.1007/978-3-031-82346-6_5",
+      "doi": "10.1007/978-3-031-82346-6_5",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — Knowledge drift through misinformation"
+    },
+    {
+      "id": "79",
+      "title": "When AI sees hotter: Overestimation bias in large language model climate assessments",
+      "authors": [
+        "Tamang, Tenzin",
+        "Zheng, Ruilin"
+      ],
+      "year": "2025",
+      "venue": "Public Understanding of Science",
+      "url": "http://dx.doi.org/10.1177/09636625251351575",
+      "doi": "10.1177/09636625251351575",
+      "section": "EVAL",
+      "paradigm": "Evaluation / Analysis",
+      "tldr": "Evaluation-only — Overestimation bias in LLM climate assessments"
+    }
+  ]
+}
