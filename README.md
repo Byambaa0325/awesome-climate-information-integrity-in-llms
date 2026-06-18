@@ -33,7 +33,7 @@ Restricting the corpus to climate-only studies would have excluded exactly the w
 
 Entries come from a systematic search executed on **April 2026** across five bibliographic APIs — **arXiv, DBLP, OpenAlex, Scopus, and Semantic Scholar**. We ran 13 structured Boolean queries.
 
-The raw **26,704 records** were deduplicated, keyword pre-filtered, and screened by title/abstract, then full-text reviewed and scored against a 10-criterion quality rubric. **79 studies** passed the threshold (QA ≥ 6.0); a further **12** were added via citation snowballing and expert knowledge, for a **91-paper corpus**. Full counts, criteria, and the search protocol are in [Methodology](#methodology).
+The raw **26,704 records** were deduplicated, keyword pre-filtered, and screened by title/abstract, then full-text reviewed and scored against a 10-criterion quality rubric. **78 studies** passed the threshold (QA ≥ 6.0); a further **12** were added via citation snowballing and expert knowledge, **90-paper corpus**. Full counts, criteria, and the search protocol are in [Methodology](#methodology).
 
 - The full machine-readable corpus lives in `[assets/corpus.json](assets/corpus.json)`; BibTeX for every entry is in `[assets/references.bib](assets/references.bib)`.
 
@@ -45,15 +45,15 @@ The raw **26,704 records** were deduplicated, keyword pre-filtered, and screened
   - [Contents](#contents)
   - [Interventions by Paradigm](#interventions-by-paradigm)
     - [Retrieval-Augmented Generation (RAG) (17)](#retrieval-augmented-generation-rag-17)
-    - [Fine-Tuning  Domain Adaptation (13)](#fine-tuning--domain-adaptation-13)
-    - [Machine Unlearning (3)](#machine-unlearning-3)
-    - [Fact-Checking Pipelines (10)](#fact-checking-pipelines-10)
-    - [Hallucination  Misinformation Detection (12)](#hallucination--misinformation-detection-12)
-    - [Knowledge Editing  Mechanistic Interpretability (2)](#knowledge-editing--mechanistic-interpretability-2)
-  - [Benchmarks, Surveys  Evaluation Studies](#benchmarks-surveys--evaluation-studies)
-    - [Benchmarks  Datasets (11)](#benchmarks--datasets-11)
-    - [Surveys  Reviews (8)](#surveys--reviews-8)
-    - [Evaluation  Analysis Studies (15)](#evaluation--analysis-studies-15)
+    - [Fine-Tuning \& Domain Adaptation (13)](#fine-tuning--domain-adaptation-13)
+    - [Machine Unlearning (2)](#machine-unlearning-2)
+    - [Fact-Checking Pipelines (9)](#fact-checking-pipelines-9)
+    - [Hallucination \& Misinformation Detection (12)](#hallucination--misinformation-detection-12)
+    - [Knowledge Editing \& Mechanistic Interpretability (3)](#knowledge-editing--mechanistic-interpretability-3)
+  - [Benchmarks, Surveys \& Evaluation Studies](#benchmarks-surveys--evaluation-studies)
+    - [Benchmarks \& Datasets (11)](#benchmarks--datasets-11)
+    - [Surveys \& Reviews (8)](#surveys--reviews-8)
+    - [Evaluation \& Analysis Studies (15)](#evaluation--analysis-studies-15)
   - [Methodology](#methodology)
     - [Generative AI usage](#generative-ai-usage)
   - [Contributing](#contributing)
@@ -129,16 +129,14 @@ Fine-tuning language models for factuality — general domain.
 - **[ClimateBERT: A Pretrained Language Model for Climate-Related Text](https://arxiv.org/abs/2110.12010)**  
 Domain-specific BERT predecessor to ClimateGPT; grounds domain-adaptation axis.
 
-### Machine Unlearning (3)
+### Machine Unlearning (2)
 
 - **[Unlearning Climate Misinformation in Large Language Models](http://dx.doi.org/10.18653/v1/2024.climatenlp-1.14)** ⭐ — Fore et al. — *Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)* (2024)  
 Machine unlearning of climate misinformation from LLM weights.
-- **[Layer of Truth: Probing Belief Shifts under Continual Pre-Training Poisoning](https://arxiv.org/abs/2510.26829)**  
-Probing belief shift resistance under continual pre-training poisoning.
 - **[Elastic Robust Unlearning of Specific Knowledge in Large Language Models](https://openreview.net/forum?id=VrXjAfdwrN)**  
 ILU framework: IRM-based unlearning robustness against relearning.
 
-### Fact-Checking Pipelines (10)
+### Fact-Checking Pipelines (9)
 
 - **[Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models](http://dx.doi.org/10.18653/v1/2025.emnlp-main.764)** ⭐ — Han et al. — *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (2025)  
 Debate-to-Detect: multi-agent debate as fact-checking pipeline.
@@ -150,8 +148,6 @@ Multi-sourced, multi-agent evidence retrieval for fact-checking.
 AI-assisted scientific assessment of climate change claims.
 - **[Atomic Reasoning for Scientific Table Claim Verification](https://arxiv.org/abs/2506.06972)**  
 Atomic reasoning for scientific table claim verification.
-- **[Understanding Inequality of LLM Fact-Checking over Geographic Regions with Agent and Retrieval models](https://arxiv.org/abs/2503.22877)**  
-Geographic inequality in LLM fact-checking via agent frameworks.
 - **[The ClimateCheck Shared Task: Scientific Fact-Checking of Social Media Claims about Climate Change](http://dx.doi.org/10.18653/v1/2025.sdp-1.24)** — Abu Ahmad et al. — *Proceedings of the Fifth Workshop on Scholarly Document Processing (SDP 2025)* (2025)  
 ClimateCheck shared task: climate claim verification systems.
 - **[Computational Fact-Checking of Online Discourse: Scoring Scientific Accuracy in Climate Change Related News Articles](http://dx.doi.org/10.1109/ICKG66886.2025.00055)** — Wittenborg et al. — *2025 IEEE International Conference on Knowledge Graph (ICKG)* (2025)  
@@ -188,10 +184,12 @@ Semantic entropy for hallucination detection in LLMs.
 - **[Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/abs/2309.13788)**  
 Detectability of LLM-generated vs human-written misinformation; bridges DETECTION gap.
 
-### Knowledge Editing & Mechanistic Interpretability (2)
+### Knowledge Editing & Mechanistic Interpretability (3)
 
 - **[Reviving Your MNEME: Predicting The Side Effects of LLM Unlearning and Fine-Tuning via Sparse Model Diffing](http://dx.doi.org/10.18653/v1/2025.emnlp-main.1641)** — Kassem et al. — *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (2025)  
 Sparse probing of unlearning side effects on unrelated knowledge.
+- **[Layer of Truth: Probing Belief Shifts under Continual Pre-Training Poisoning](https://arxiv.org/abs/2510.26829)**  
+Probing belief shift resistance under continual pre-training poisoning.
 - **[Can Knowledge Editing Really Correct Hallucinations?](https://arxiv.org/abs/2410.16251)**  
 Mechanistic interpretability gap — HalluEditBench evaluates ROME/MEMIT knowledge editing.
 
@@ -259,8 +257,8 @@ Evaluation-only — Climate knowledge in LLMs.
 Evaluation-only — Confidence paradox in AI fact-checking.
 - **[I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models](https://arxiv.org/abs/2505.13302)**  
 Evaluation-only — Images increase misinformation sharing.
-- **[Group Reasoning Emission Estimation Networks](https://arxiv.org/abs/2502.06874)**  
-Out-of-scope — Emission estimation, not misinformation.
+- **[Understanding Inequality of LLM Fact-Checking over Geographic Regions with Agent and Retrieval models](https://arxiv.org/abs/2503.22877)**  
+Evaluation-only — Geographic inequality in LLM fact-checking via agent frameworks.
 - **[The AI Annotator: Large Language Models’ Potential in Scoring Sustainability Reports](http://dx.doi.org/10.3390/systems13100899)** — Wu et al. — *Systems* (2025)  
 Evaluation-only — AI Annotator for sustainability reports.
 - **[Understanding Knowledge Drift in LLMs Through Misinformation](http://dx.doi.org/10.1007/978-3-031-82346-6_5)** — Fastowski et al. — *Discovering Drift Phenomena in Evolving Landscapes* (2025)  
@@ -289,17 +287,21 @@ This list is derived from a systematic literature review conducted following the
 | After deduplication                                                                     | 10,715 |
 | After keyword pre-filter                                                                | 2,122  |
 | Admitted to full-text review                                                            | 146    |
-| **Passed quality assessment (QA ≥ 6.0/10)**                                             | **79** |
+| **Passed quality assessment (QA ≥ 6.0/10)**                                             | **80** |
 | — Primary intervention studies (QA ≥ 7.0)                                               | 31     |
 | — Supplementary intervention studies (QA 6.0–6.5 / peripheral domain)                   | 21     |
 | — Benchmarks, surveys & evaluation-only (cited for context)                             | 28     |
 | Identified via citation snowballing & expert knowledge                                  | 12     |
-| **Total corpus**                                                                        | **91** |
+| **Corpus before full-paper inspection**                                                 | **92** |
+| — Removed on full-paper inspection (QA < 7.0)                                            | 2      |
+| **Final corpus**                                                                        | **90** |
 
 
 **PRISMA-ScR study selection flow:**
 
-![PRISMA-ScR flow diagram of study selection: 26,704 records identified, deduplicated to 10,715, screened, full-text reviewed, and reduced to a final corpus of 91 studies](assets/prisma-flow.png)
+![PRISMA-ScR flow diagram of study selection: 26,704 records identified, deduplicated to 10,715, screened, full-text reviewed, and reduced to a corpus of 92 studies](assets/prisma-flow.png)
+
+*Note: the flow diagram shows the 92-study corpus produced by the review; on full-paper inspection, 2 papers scoring below QA 7.0 were removed, giving the **final 90-paper corpus**.*
 
 **Search strategy:** 13 structured Boolean queries combining six keyword groups under a Problem–Constraint–Solution vocabulary (climate/scientific domain × misinformation/hallucination/factuality × RAG/fine-tuning/unlearning/fact-checking/detection), run across five bibliographic APIs.
 
