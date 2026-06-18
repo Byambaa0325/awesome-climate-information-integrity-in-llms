@@ -65,67 +65,67 @@ Studies that propose or evaluate a mitigation, grouped by **intervention paradig
 
 ### Retrieval-Augmented Generation (RAG) (17)
 
-- **[Automated fact-checking of climate claims with large language models](http://dx.doi.org/10.1038/s44168-025-00215-8)** ⭐ — Leippold et al. — *npj Climate Action* (2025)  
-Retrieval pipeline for automated climate fact-checking.
 - **[Contradiction to Consensus: Dual Perspective, Multi Source Retrieval Based Claim Verification with Source Level Disagreement using LLM](https://arxiv.org/abs/2602.18693)** ⭐  
 Dual-perspective multi-source retrieval for claim verification.
+- **[Automated fact-checking of climate claims with large language models](http://dx.doi.org/10.1038/s44168-025-00215-8)** ⭐ — Leippold et al. — *npj Climate Action* (2025)  
+Retrieval pipeline for automated climate fact-checking.
 - **[Web Retrieval Agents for Evidence-Based Misinformation Detection](https://arxiv.org/abs/2409.00009)** ⭐  
 Web-retrieval agents for evidence-based misinformation detection.
-- **[A Large Language Model-based Framework to Retrieve Life Cycle Inventory and Environmental Impact Data from Scientific Literature](http://dx.doi.org/10.1021/acs.est.5c05955)** — Kumar et al. — *Environmental Science & Technology* (2025)  
-LLM-based framework for life cycle inventory retrieval.
-- **[Beyond Retrieval: Improving Evidence Quality for LLM-based Multimodal Fact-Checking](https://arxiv.org/abs/2505.03135)**  
-Beyond retrieval: evidence quality for multimodal fact-checking.
-- **[ChatClimate: Grounding conversational AI in climate science](http://dx.doi.org/10.1038/s43247-023-01084-x)** — Vaghefi et al. — *Communications Earth & Environment* (2023)  
-ChatClimate: RAG-grounded climate conversational AI.
-- **[CtrlRAG: Black-box Document Poisoning Attacks for Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2503.06950)**  
-CtrlRAG: adversarial document poisoning — robustness baseline.
 - **[EmeraldMind: A Knowledge Graph-Augmented Framework for Greenwashing Detection](https://arxiv.org/abs/2512.11506)**  
 EmeraldMind: KG-augmented RAG for greenwashing detection.
-- **[Enabling GPTs for Expert-Level Environmental Engineering Question Answering](http://dx.doi.org/10.1021/acs.estlett.4c00665)** — Zhu et al. — *Environmental Science & Technology Letters* (2024)  
-Enabling GPTs for expert-level environmental engineering QA.
-- **[Listen to the Context: Towards Faithful Large Language Models for Retrieval Augmented Generation on Climate Questions](https://arxiv.org/abs/2505.15633)**  
-Faithful LLMs for RAG: context-following intervention.
-- **[SimulRAG: Simulator-based RAG for Grounding LLMs in Long-form Scientific QA](https://arxiv.org/abs/2509.25459)**  
-SimulRAG: simulator-grounded RAG for scientific QA.
-- **[Towards More Robust Retrieval-Augmented Generation: Evaluating RAG Under Adversarial Poisoning Attacks](https://arxiv.org/abs/2412.16708)**  
-Robustness evaluation of RAG under adversarial conditions.
 - **[CAIRNS: Balancing Readability and Scientific Accuracy in Climate Adaptation Question Answering](https://arxiv.org/abs/2512.02251)**  
 CAIRNS: balancing readability and scientific accuracy.
+- **[SimulRAG: Simulator-based RAG for Grounding LLMs in Long-form Scientific QA](https://arxiv.org/abs/2509.25459)**  
+SimulRAG: simulator-grounded RAG for scientific QA.
 - **[CF-RAG: A Dataset and Method for Carbon Footprint QA Using Retrieval-Augmented Generation](https://arxiv.org/abs/2508.03489)**  
 CF-RAG: RAG for carbon footprint QA — domain-specific.
+- **[Beyond Retrieval: Improving Evidence Quality for LLM-based Multimodal Fact-Checking](https://arxiv.org/abs/2505.03135)**  
+Beyond retrieval: evidence quality for multimodal fact-checking.
+- **[Listen to the Context: Towards Faithful Large Language Models for Retrieval Augmented Generation on Climate Questions](https://arxiv.org/abs/2505.15633)**  
+Faithful LLMs for RAG: context-following intervention.
+- **[CtrlRAG: Black-box Document Poisoning Attacks for Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/abs/2503.06950)**  
+CtrlRAG: adversarial document poisoning — robustness baseline.
+- **[A Large Language Model-based Framework to Retrieve Life Cycle Inventory and Environmental Impact Data from Scientific Literature](http://dx.doi.org/10.1021/acs.est.5c05955)** — Kumar et al. — *Environmental Science & Technology* (2025)  
+LLM-based framework for life cycle inventory retrieval.
 - **[Language models for the analysis of and interaction with climate change documents](http://dx.doi.org/10.1017/eds.2025.10024)** — Volkanovska — *Environmental Data Science* (2025)  
 LMs for analysis of and interaction with climate documents.
-- **[My Climate Advisor: An Application of NLP in Climate Adaptation for Agriculture](http://dx.doi.org/10.18653/v1/2024.climatenlp-1.3)** — Nguyen et al. — *Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)* (2024)  
-My Climate Advisor: NLP application for climate adaptation.
+- **[Towards More Robust Retrieval-Augmented Generation: Evaluating RAG Under Adversarial Poisoning Attacks](https://arxiv.org/abs/2412.16708)**  
+Robustness evaluation of RAG under adversarial conditions.
 - **[Verif.ai: Towards an Open-Source Scientific Generative Question-Answering System with Referenced and Verifiable Answers](https://arxiv.org/abs/2402.18589)**  
 Verif.ai: open-source scientific generative QA system.
+- **[Enabling GPTs for Expert-Level Environmental Engineering Question Answering](http://dx.doi.org/10.1021/acs.estlett.4c00665)** — Zhu et al. — *Environmental Science & Technology Letters* (2024)  
+Enabling GPTs for expert-level environmental engineering QA.
+- **[My Climate Advisor: An Application of NLP in Climate Adaptation for Agriculture](http://dx.doi.org/10.18653/v1/2024.climatenlp-1.3)** — Nguyen et al. — *Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)* (2024)  
+My Climate Advisor: NLP application for climate adaptation.
+- **[ChatClimate: Grounding conversational AI in climate science](http://dx.doi.org/10.1038/s43247-023-01084-x)** — Vaghefi et al. — *Communications Earth & Environment* (2023)  
+ChatClimate: RAG-grounded climate conversational AI.
 
 ### Fine-Tuning & Domain Adaptation (13)
 
-- **[Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation](https://arxiv.org/abs/2411.00412)** ⭐  
-Adapting While Learning: domain grounding via continual fine-tuning.
-- **[Learn and Unlearn: Addressing Misinformation in Multilingual LLMs](http://dx.doi.org/10.18653/v1/2025.emnlp-main.516)** ⭐ — Lu et al. — *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (2025)  
-Learn & Unlearn: SFT + machine unlearning for multilingual LLMs.
 - **[PretrainRL: Alleviating Factuality Hallucination of Large Language Models at the Beginning](https://arxiv.org/abs/2602.01875)** ⭐  
 PretrainRL: RL-based pretraining to reduce factuality hallucination.
+- **[Learn and Unlearn: Addressing Misinformation in Multilingual LLMs](http://dx.doi.org/10.18653/v1/2025.emnlp-main.516)** ⭐ — Lu et al. — *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (2025)  
+Learn & Unlearn: SFT + machine unlearning for multilingual LLMs.
+- **[Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation](https://arxiv.org/abs/2411.00412)** ⭐  
+Adapting While Learning: domain grounding via continual fine-tuning.
 - **[ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate Change](https://arxiv.org/abs/2401.09646)** ⭐  
 ClimateGPT: fine-tuned LLM synthesising climate research.
-- **[Fine-tuning large language models for interdisciplinary environmental challenges](http://dx.doi.org/10.1016/j.ese.2025.100608)** — Zhang et al. — *Environmental Science and Ecotechnology* (2025)  
-Fine-tuning LLMs for interdisciplinary environmental challenges.
 - **[Inducing Epistemological Humility in Large Language Models: A Targeted SFT Approach to Reducing Hallucination](https://arxiv.org/abs/2603.17504)**  
 Targeted SFT to induce epistemic humility in LLMs.
 - **[Leveraging LLMs for Environmental Complexity: Structured Fine-Tuning Data Sets and Deployment Strategies](http://dx.doi.org/10.1021/acs.est.5c09526)** — Chen et al. — *Environmental Science & Technology* (2026)  
 Structured fine-tuning datasets for environmental domain LLMs.
 - **[ClimateChat: Designing Data and Methods for Instruction Tuning LLMs to Answer Climate Change Queries](https://arxiv.org/abs/2506.13796)**  
 ClimateChat: instruction-tuning dataset for climate QA.
-- **[Fine-tuning Language Models for Factuality](https://arxiv.org/abs/2311.08401)**  
-Fine-tuning language models for factuality — general domain.
 - **[Just as Humans Need Vaccines, So Do Models: Model Immunization to Combat Falsehoods](https://arxiv.org/abs/2505.17870)**  
 Model immunisation against misinformation (vaccine analogy).
+- **[Fine-tuning large language models for interdisciplinary environmental challenges](http://dx.doi.org/10.1016/j.ese.2025.100608)** — Zhang et al. — *Environmental Science and Ecotechnology* (2025)  
+Fine-tuning LLMs for interdisciplinary environmental challenges.
 - **[Arabic Mini-ClimateGPT: A Climate Change and Sustainability Tailored Arabic LLM](http://dx.doi.org/10.18653/v1/2023.findings-emnlp.941)** — Mullappilly et al. — *Findings of the Association for Computational Linguistics: EMNLP 2023* (2023)  
 Arabic Mini-ClimateGPT: fine-tuned Arabic climate LLM.
 - **[ClimateBERT-NetZero: Detecting and Assessing Net Zero and Reduction Targets](http://dx.doi.org/10.18653/v1/2023.emnlp-main.975)** — Schimanski et al. — *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing* (2023)  
 Fine-tunes ClimateBERT for policy-commitment claims absent from main corpus.
+- **[Fine-tuning Language Models for Factuality](https://arxiv.org/abs/2311.08401)**  
+Fine-tuning language models for factuality — general domain.
 - **[ClimateBERT: A Pretrained Language Model for Climate-Related Text](https://arxiv.org/abs/2110.12010)**  
 Domain-specific BERT predecessor to ClimateGPT; grounds domain-adaptation axis.
 
@@ -146,18 +146,18 @@ Debate-to-Detect: multi-agent debate as fact-checking pipeline.
 Reliable misinformation mitigation: generalisation + uncertainty.
 - **[Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking](https://arxiv.org/abs/2603.00267)**  
 Multi-sourced, multi-agent evidence retrieval for fact-checking.
-- **[The ClimateCheck Shared Task: Scientific Fact-Checking of Social Media Claims about Climate Change](http://dx.doi.org/10.18653/v1/2025.sdp-1.24)** — Abu Ahmad et al. — *Proceedings of the Fifth Workshop on Scholarly Document Processing (SDP 2025)* (2025)  
-ClimateCheck shared task: climate claim verification systems.
-- **[Understanding Inequality of LLM Fact-Checking over Geographic Regions with Agent and Retrieval models](https://arxiv.org/abs/2503.22877)**  
-Geographic inequality in LLM fact-checking via agent frameworks.
-- **[Interpretable Unified Language Checking](https://arxiv.org/abs/2304.03728)**  
-Interpretable unified language checking pipeline.
 - **[AI-Assisted Scientific Assessment: A Case Study on Climate Change](https://arxiv.org/abs/2602.09723)**  
 AI-assisted scientific assessment of climate change claims.
 - **[Atomic Reasoning for Scientific Table Claim Verification](https://arxiv.org/abs/2506.06972)**  
 Atomic reasoning for scientific table claim verification.
+- **[Understanding Inequality of LLM Fact-Checking over Geographic Regions with Agent and Retrieval models](https://arxiv.org/abs/2503.22877)**  
+Geographic inequality in LLM fact-checking via agent frameworks.
+- **[The ClimateCheck Shared Task: Scientific Fact-Checking of Social Media Claims about Climate Change](http://dx.doi.org/10.18653/v1/2025.sdp-1.24)** — Abu Ahmad et al. — *Proceedings of the Fifth Workshop on Scholarly Document Processing (SDP 2025)* (2025)  
+ClimateCheck shared task: climate claim verification systems.
 - **[Computational Fact-Checking of Online Discourse: Scoring Scientific Accuracy in Climate Change Related News Articles](http://dx.doi.org/10.1109/ICKG66886.2025.00055)** — Wittenborg et al. — *2025 IEEE International Conference on Knowledge Graph (ICKG)* (2025)  
 Scoring scientific accuracy in online discourse.
+- **[Interpretable Unified Language Checking](https://arxiv.org/abs/2304.03728)**  
+Interpretable unified language checking pipeline.
 - **[SciClops: Detecting and Contextualizing Scientific Claims for Assisting Manual Fact-Checking](http://dx.doi.org/10.1145/3459637.3482475)** — Smeros et al. — *Proceedings of the 30th ACM International Conference on Information & Knowledge Management* (2021)  
 Pre-LLM baseline for scientific claim detection; anchors evaluation landscape.
 
@@ -171,29 +171,29 @@ Enhancing LLMs for governance with human oversight and alignment.
 SelfCheckGPT: zero-resource black-box hallucination detection.
 - **[ARREST: Adversarial Resilient Regulation Enhancing Safety and Truth in Large Language Models](https://arxiv.org/abs/2601.04394)**  
 ARREST: adversarial resilient safety and truth enforcement.
-- **[Detecting hallucinations in large language models using semantic entropy](http://dx.doi.org/10.1038/s41586-024-07421-0)** — Farquhar et al. — *Nature* (2024)  
-Semantic entropy for hallucination detection in LLMs.
-- **[Sycophancy under Pressure: Evaluating and Mitigating Sycophantic Bias via Adversarial Dialogues in Scientific QA](https://arxiv.org/abs/2508.13743)**  
-Sycophancy under pressure: evaluation and mitigation.
-- **[An Ensemble Approach to Climate Misinformation Detection](http://dx.doi.org/10.5220/0014633100004084)** — Lei et al. — *Proceedings of the 21st International Conference on Computer Vision Theory and Applications* (2026)  
-Ensemble approach to climate misinformation detection.
 - **[Multimodal Climate Disinformation Detection: Integrating Vision-Language Models with External Knowledge Sources](https://arxiv.org/abs/2601.16108)**  
 Multimodal climate disinformation detection (vision-language).
-- **[Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change](https://arxiv.org/abs/2509.08024)**  
-Two-stage context learning for multimodal stance detection.
+- **[An Ensemble Approach to Climate Misinformation Detection](http://dx.doi.org/10.5220/0014633100004084)** — Lei et al. — *Proceedings of the 21st International Conference on Computer Vision Theory and Applications* (2026)  
+Ensemble approach to climate misinformation detection.
 - **[Using Large Language Models to Detect and Debunk Climate Change Misinformation](http://dx.doi.org/10.3390/bdcc10010034)** — Shahbazi et al. — *Big Data and Cognitive Computing* (2026)  
 LLMs to detect and debunk climate misinformation.
+- **[Two Stage Context Learning with Large Language Models for Multimodal Stance Detection on Climate Change](https://arxiv.org/abs/2509.08024)**  
+Two-stage context learning for multimodal stance detection.
+- **[Sycophancy under Pressure: Evaluating and Mitigating Sycophantic Bias via Adversarial Dialogues in Scientific QA](https://arxiv.org/abs/2508.13743)**  
+Sycophancy under pressure: evaluation and mitigation.
 - **[Fake news detection: comparative evaluation of BERT-like models and large language models with generative AI-annotated data](http://dx.doi.org/10.1007/s10115-024-02321-1)** — Raza et al. — *Knowledge and Information Systems* (2025)  
 Comparative evaluation of BERT-like and LLMs for fake news.
+- **[Detecting hallucinations in large language models using semantic entropy](http://dx.doi.org/10.1038/s41586-024-07421-0)** — Farquhar et al. — *Nature* (2024)  
+Semantic entropy for hallucination detection in LLMs.
 - **[Can LLM-Generated Misinformation Be Detected?](https://arxiv.org/abs/2309.13788)**  
 Detectability of LLM-generated vs human-written misinformation; bridges DETECTION gap.
 
 ### Knowledge Editing & Mechanistic Interpretability (2)
 
-- **[Can Knowledge Editing Really Correct Hallucinations?](https://arxiv.org/abs/2410.16251)**  
-Mechanistic interpretability gap — HalluEditBench evaluates ROME/MEMIT knowledge editing.
 - **[Reviving Your MNEME: Predicting The Side Effects of LLM Unlearning and Fine-Tuning via Sparse Model Diffing](http://dx.doi.org/10.18653/v1/2025.emnlp-main.1641)** — Kassem et al. — *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (2025)  
 Sparse probing of unlearning side effects on unrelated knowledge.
+- **[Can Knowledge Editing Really Correct Hallucinations?](https://arxiv.org/abs/2410.16251)**  
+Mechanistic interpretability gap — HalluEditBench evaluates ROME/MEMIT knowledge editing.
 
 ## Benchmarks, Surveys & Evaluation Studies
 
@@ -201,80 +201,80 @@ Sparse probing of unlearning side effects on unrelated knowledge.
 
 ### Benchmarks & Datasets (11)
 
-- **[CLINB: A Climate Intelligence Benchmark for Foundational Models](https://arxiv.org/abs/2511.11597)** ⭐  
-Pure benchmark — CLINB (no proposed system).
-- **[ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation](http://dx.doi.org/10.1609/aaai.v40i46.41281)** — Sun et al. — *Proceedings of the AAAI Conference on Artificial Intelligence* (2026)  
-ESG-Bench: hallucination mitigation in long ESG reports.
-- **[Holistic Evaluation of Language Models](http://dx.doi.org/10.1111/nyas.15007)** — Bommasani et al. — *Annals of the New York Academy of Sciences* (2023)  
-Pure benchmark — HELM (evaluation framework).
 - **[LLM Benchmark-User Need Misalignment for Climate Change](https://arxiv.org/abs/2603.26106)** ⭐  
 Pure benchmark — LLM benchmark/user-need misalignment.
+- **[CLINB: A Climate Intelligence Benchmark for Foundational Models](https://arxiv.org/abs/2511.11597)** ⭐  
+Pure benchmark — CLINB (no proposed system).
 - **[S2SServiceBench: A Multimodal Benchmark for Last-Mile S2S Climate Services](https://arxiv.org/abs/2602.14017)**  
 Pure benchmark — S2SServiceBench.
-- **[EnviroExam: Benchmarking Environmental Science Knowledge of Large Language Models](https://arxiv.org/abs/2405.11265)**  
-Pure benchmark — EnviroExam.
-- **[ClimateEval: A Comprehensive Benchmark for NLP Tasks Related to Climate Change](http://dx.doi.org/10.18653/v1/2025.climatenlp-1.13)** — Kurfali et al. — *Proceedings of the 2nd Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2025)* (2025)  
-Pure benchmark — ClimateEval.
-- **[TruthfulQA: Measuring How Models Mimic Human Falsehoods](http://dx.doi.org/10.18653/v1/2022.acl-long.229)** — Lin et al. — *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (2022)  
-Pure benchmark — TruthfulQA.
-- **[CliME: Evaluating Multimodal Climate Discourse on Social Media and the Climate Alignment Quotient (CAQ)](http://dx.doi.org/10.18653/v1/2025.nlp4pi-1.4)** — Borah et al. — *Proceedings of the Fourth Workshop on NLP for Positive Impact (NLP4PI)* (2025)  
-Pure benchmark/dataset — CliME.
+- **[ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation](http://dx.doi.org/10.1609/aaai.v40i46.41281)** — Sun et al. — *Proceedings of the AAAI Conference on Artificial Intelligence* (2026)  
+ESG-Bench: hallucination mitigation in long ESG reports.
 - **[ESGenius: Benchmarking LLMs on Environmental, Social, and Governance (ESG) and Sustainability Knowledge](http://dx.doi.org/10.18653/v1/2025.emnlp-main.739)** — He et al. — *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (2025)  
 Pure benchmark — ESGenius.
 - **[Benchmarking LLM Faithfulness in RAG with Evolving Leaderboards](http://dx.doi.org/10.18653/v1/2025.emnlp-industry.54)** — Tamber et al. — *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track* (2025)  
 FaithJudge + evolving RAG leaderboard; complements RAG faithfulness work.
+- **[ClimateEval: A Comprehensive Benchmark for NLP Tasks Related to Climate Change](http://dx.doi.org/10.18653/v1/2025.climatenlp-1.13)** — Kurfali et al. — *Proceedings of the 2nd Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2025)* (2025)  
+Pure benchmark — ClimateEval.
+- **[CliME: Evaluating Multimodal Climate Discourse on Social Media and the Climate Alignment Quotient (CAQ)](http://dx.doi.org/10.18653/v1/2025.nlp4pi-1.4)** — Borah et al. — *Proceedings of the Fourth Workshop on NLP for Positive Impact (NLP4PI)* (2025)  
+Pure benchmark/dataset — CliME.
+- **[EnviroExam: Benchmarking Environmental Science Knowledge of Large Language Models](https://arxiv.org/abs/2405.11265)**  
+Pure benchmark — EnviroExam.
+- **[Holistic Evaluation of Language Models](http://dx.doi.org/10.1111/nyas.15007)** — Bommasani et al. — *Annals of the New York Academy of Sciences* (2023)  
+Pure benchmark — HELM (evaluation framework).
+- **[TruthfulQA: Measuring How Models Mimic Human Falsehoods](http://dx.doi.org/10.18653/v1/2022.acl-long.229)** — Lin et al. — *Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (2022)  
+Pure benchmark — TruthfulQA.
 
 ### Surveys & Reviews (8)
 
+- **[Information Integrity about Climate Science: A Systematic Review](http://dx.doi.org/10.61452/BTZP3426)** ⭐ — Elbeyi et al. — 2025  
+IPIE systematic review of climate information integrity landscape; abstract-only.
+- **[Combating Misinformation in the Age of LLMs: Opportunities and Challenges](http://dx.doi.org/10.1002/aaai.12188)** ⭐ — Chen et al. — *AI Magazine* (2024)  
+Survey of full mitigation landscape; scoping and vocabulary gap.
+- **[Hallucination to truth: a review of fact-checking and factuality evaluation in large language models](http://dx.doi.org/10.1007/s10462-025-11454-w)** — Rahman et al. — *Artificial Intelligence Review* (2026)  
+Survey — Hallucination to truth (review).
 - **[Applications of Generative Large Language Models in Environmental Science: A Systematic Review](http://dx.doi.org/10.21926/aeer.2503028)** — Raeissi et al. — *Advances in Environmental and Engineering Research* (2025)  
 Survey — Applications of LLMs in environmental science.
 - **[Generative AI and misinformation: a scoping review of the role of generative AI in the generation, detection, mitigation, and impact of misinformation](http://dx.doi.org/10.1007/s00146-025-02620-3)** — Park et al. — *AI & SOCIETY* (2025)  
 Survey — Generative AI and misinformation (scoping review).
-- **[Generative Large Language Models in Automated Fact-Checking: A Survey](https://arxiv.org/abs/2407.02351)**  
-Survey — LLMs in automated fact-checking.
-- **[Hallucination to truth: a review of fact-checking and factuality evaluation in large language models](http://dx.doi.org/10.1007/s10462-025-11454-w)** — Rahman et al. — *Artificial Intelligence Review* (2026)  
-Survey — Hallucination to truth (review).
-- **[A Comprehensive Survey of Hallucination in Large Language, Image, Video and Audio Foundation Models](http://dx.doi.org/10.18653/v1/2024.findings-emnlp.685)** — Sahoo et al. — *Findings of the Association for Computational Linguistics: EMNLP 2024* (2024)  
-Survey — Comprehensive survey of hallucination.
-- **[Combating Misinformation in the Age of LLMs: Opportunities and Challenges](http://dx.doi.org/10.1002/aaai.12188)** ⭐ — Chen et al. — *AI Magazine* (2024)  
-Survey of full mitigation landscape; scoping and vocabulary gap.
 - **[Ethics, Generative AI and Science Communication](http://dx.doi.org/10.1177/09636625251393621)** — Feldman et al. — *Public Understanding of Science* (2025)  
 Ethics of genAI in science communication; deployment context.
-- **[Information Integrity about Climate Science: A Systematic Review](http://dx.doi.org/10.61452/BTZP3426)** ⭐ — Elbeyi et al. — 2025  
-IPIE systematic review of climate information integrity landscape; abstract-only.
+- **[A Comprehensive Survey of Hallucination in Large Language, Image, Video and Audio Foundation Models](http://dx.doi.org/10.18653/v1/2024.findings-emnlp.685)** — Sahoo et al. — *Findings of the Association for Computational Linguistics: EMNLP 2024* (2024)  
+Survey — Comprehensive survey of hallucination.
+- **[Generative Large Language Models in Automated Fact-Checking: A Survey](https://arxiv.org/abs/2407.02351)**  
+Survey — LLMs in automated fact-checking.
 
 ### Evaluation & Analysis Studies (15)
 
-- **[Assessing Large Language Models on Climate Information](https://arxiv.org/abs/2310.02932)** ⭐  
-Evaluation-only — Assessing LLMs on climate information.
+- **[When AI sees hotter: Overestimation bias in large language model climate assessments](http://dx.doi.org/10.1177/09636625251351575)** ⭐ — Tamang et al. — *Public Understanding of Science* (2025)  
+Evaluation-only — Overestimation bias in LLM climate assessments.
 - **[Assessing the Effectiveness of GPT-4o in Climate Change Evidence Synthesis and Systematic Assessments: Preliminary Insights](http://dx.doi.org/10.18653/v1/2024.climatenlp-1.20)** ⭐ — Joe et al. — *Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)* (2024)  
 Evaluation-only — Assessing GPT-4o for climate evidence synthesis.
-- **[Climate Knowledge in Large Language Models](https://arxiv.org/abs/2510.08043)**  
-Evaluation-only — Climate knowledge in LLMs.
-- **[On the Risk of Misinformation Pollution with Large Language Models](http://dx.doi.org/10.18653/v1/2023.findings-emnlp.97)** — Pan et al. — *Findings of the Association for Computational Linguistics: EMNLP 2023* (2023)  
-Evaluation-only — Risk of misinformation pollution.
 - **[ClimateX: Do LLMs Accurately Assess Human Expert Confidence in Climate Statements?](https://arxiv.org/abs/2311.17107)** ⭐  
 Evaluation-only — ClimateX: LLM confidence on climate statements.
-- **[Disinformation Capabilities of Large Language Models](http://dx.doi.org/10.18653/v1/2024.acl-long.793)** — Vykopal et al. — *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (2024)  
-Evaluation-only — Disinformation capabilities of LLMs.
-- **[Generative AI tools can enhance climate literacy but must be checked for biases and inaccuracies](http://dx.doi.org/10.1038/s43247-024-01392-w)** — Atkins et al. — *Communications Earth & Environment* (2024)  
-Evaluation-only — AI tools and climate literacy (commentary).
-- **[Group Reasoning Emission Estimation Networks](https://arxiv.org/abs/2502.06874)**  
-Out-of-scope — Emission estimation, not misinformation.
-- **[Evaluating ChatNetZero, an LLM-Chatbot to Demystify Climate Pledges](http://dx.doi.org/10.18653/v1/2024.climatenlp-1.6)** — Hsu et al. — *Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)* (2024)  
-Evaluating ChatNetZero LLM chatbot on climate pledges.
-- **[I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models](https://arxiv.org/abs/2505.13302)**  
-Evaluation-only — Images increase misinformation sharing.
-- **[Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown](https://arxiv.org/abs/2411.15993)**  
-Evaluation-only — Factuality in long-form text generation.
+- **[Assessing Large Language Models on Climate Information](https://arxiv.org/abs/2310.02932)** ⭐  
+Evaluation-only — Assessing LLMs on climate information.
+- **[Climate Knowledge in Large Language Models](https://arxiv.org/abs/2510.08043)**  
+Evaluation-only — Climate knowledge in LLMs.
 - **[Scaling Truth: The Confidence Paradox in AI Fact-Checking](https://arxiv.org/abs/2509.08803)**  
 Evaluation-only — Confidence paradox in AI fact-checking.
+- **[I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models](https://arxiv.org/abs/2505.13302)**  
+Evaluation-only — Images increase misinformation sharing.
+- **[Group Reasoning Emission Estimation Networks](https://arxiv.org/abs/2502.06874)**  
+Out-of-scope — Emission estimation, not misinformation.
 - **[The AI Annotator: Large Language Models’ Potential in Scoring Sustainability Reports](http://dx.doi.org/10.3390/systems13100899)** — Wu et al. — *Systems* (2025)  
 Evaluation-only — AI Annotator for sustainability reports.
 - **[Understanding Knowledge Drift in LLMs Through Misinformation](http://dx.doi.org/10.1007/978-3-031-82346-6_5)** — Fastowski et al. — *Discovering Drift Phenomena in Evolving Landscapes* (2025)  
 Evaluation-only — Knowledge drift through misinformation.
-- **[When AI sees hotter: Overestimation bias in large language model climate assessments](http://dx.doi.org/10.1177/09636625251351575)** ⭐ — Tamang et al. — *Public Understanding of Science* (2025)  
-Evaluation-only — Overestimation bias in LLM climate assessments.
+- **[Investigating Factuality in Long-Form Text Generation: The Roles of Self-Known and Self-Unknown](https://arxiv.org/abs/2411.15993)**  
+Evaluation-only — Factuality in long-form text generation.
+- **[Disinformation Capabilities of Large Language Models](http://dx.doi.org/10.18653/v1/2024.acl-long.793)** — Vykopal et al. — *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (2024)  
+Evaluation-only — Disinformation capabilities of LLMs.
+- **[Evaluating ChatNetZero, an LLM-Chatbot to Demystify Climate Pledges](http://dx.doi.org/10.18653/v1/2024.climatenlp-1.6)** — Hsu et al. — *Proceedings of the 1st Workshop on Natural Language Processing Meets Climate Change (ClimateNLP 2024)* (2024)  
+Evaluating ChatNetZero LLM chatbot on climate pledges.
+- **[Generative AI tools can enhance climate literacy but must be checked for biases and inaccuracies](http://dx.doi.org/10.1038/s43247-024-01392-w)** — Atkins et al. — *Communications Earth & Environment* (2024)  
+Evaluation-only — AI tools and climate literacy (commentary).
+- **[On the Risk of Misinformation Pollution with Large Language Models](http://dx.doi.org/10.18653/v1/2023.findings-emnlp.97)** — Pan et al. — *Findings of the Association for Computational Linguistics: EMNLP 2023* (2023)  
+Evaluation-only — Risk of misinformation pollution.
 
 ## Methodology
 
